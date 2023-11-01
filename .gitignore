@@ -1,0 +1,11 @@
+# Configuration files
+sdkconfig*
+
+# Production folder
+build/
+
+# HTML documentation
+html_doc/
+
+.devcontainer
+.vscode
